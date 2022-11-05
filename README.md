@@ -1,6 +1,6 @@
 Boilerplate for Game Projects using ThreeJs, Webpack & Typescript.
 
-Made by following the following tutorial by Zack West.
+Made by following a tutorial by Zack West.
 https://www.alpharithms.com/threejs-scene-setup-typescript-and-webpack-194215/
 
 Build:
