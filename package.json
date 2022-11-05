@@ -1,7 +1,7 @@
 {
-  "name": "winter-challenge",
+  "name": "ThreeJs Boilerplate",
   "version": "1.0.0",
-  "description": "Game CTF challenge made for the Christmas period.",
+  "description": "Setup for ThreeJS using Webpack and Typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
