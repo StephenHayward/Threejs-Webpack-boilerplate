@@ -1,0 +1,32 @@
+{
+  "name": "winter-challenge",
+  "version": "1.0.0",
+  "description": "Game CTF challenge made for the Christmas period.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "StephenHayward",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "@types/three": "^0.144.0",
+    "ts-loader": "^9.4.1",
+    "ts-node": "^10.9.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenHayward/WinterChallenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StephenHayward/WinterChallenge/issues"
+  },
+  "homepage": "https://github.com/StephenHayward/WinterChallenge#readme"
+}
